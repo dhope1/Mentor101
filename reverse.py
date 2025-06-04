@@ -24,3 +24,11 @@ empty_list = []
 # d = a__list.count("clone wars") #counts occurrences of a given item
 # e = a__list.index('clone wars') #returns index of specified item
 # print(a, b, c, d, e)
+#ur_string = "corrected"
+#print(ur_string[::-1])
+
+def reverse_string(a):
+    print(a[::-1])
+
+new_string = "madam" #palindrome hinted
+reverse_string(new_string)
