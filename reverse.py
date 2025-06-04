@@ -27,6 +27,7 @@ empty_list = []
 #ur_string = "corrected"
 #print(ur_string[::-1])
 
+#using slicing
 def reverse_string(a):
     print(a[::-1])
 
