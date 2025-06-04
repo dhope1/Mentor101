@@ -29,7 +29,7 @@ empty_list = []
 
 #using slicing
 def reverse_string(a):
-    print(a[::-1])
+    return a[::-1]
 
-new_string = "madam" #palindrome hinted
-reverse_string(new_string)
+# new_string = "madam" #palindrome hinted
+# reverse_string(new_string)
